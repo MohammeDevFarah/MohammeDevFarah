@@ -5,7 +5,7 @@ Profissional em constante desenvolvimento na área de tecnologia da informação
 buscando sempre cumprir suas funções de maneiras eficientes para atingir metas e 
 colaborar com o desenvolvimento das organizações em que atuou.
 
-<img src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=70&color=4d2bf7" width="40" height="40"/>   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=c6c3e9" width="40" height="40"/> <img src="https://icongr.am/devicon/git-original.svg?size=70&color=4d2bf7" width="40" height="40"/> <img src="https://icongr.am/devicon/java-original.svg?size=70&color=4d2bf7" width="40" height="40"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=c6c3e9" width="40" height="40"/>  <img src="https://icongr.am/devicon/java-original.svg?size=70&color=4d2bf7" width="40" height="40"/>
 
 ### Contatos:
 
