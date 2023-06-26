@@ -1,5 +1,5 @@
 ## 👋 Olá! Bem vindo(a) ao meu perfil Github
-### Me chamo **Ricard Farah**
+Eu me chamo **Ricard Farah**
 Profissional em constante desenvolvimento na área de tecnologia da informação, com perfil **resiliente**, **dedicado**, com facilidade de 
 **comunicação** e **adaptabilidade** adquiridas com a vivência em sua carreira profissional, 
 buscando sempre cumprir suas funções de maneiras eficientes para atingir metas e 
