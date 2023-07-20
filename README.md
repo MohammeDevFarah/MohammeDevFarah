@@ -1,5 +1,6 @@
 ## 👋 Olá! Bem vindo(a) ao meu perfil Github
-Me chamo **Ricard Farah**
+
+ Eu sou o **Ricard Farah**
 
 **QA Developer**  motivado, embarcado em uma jornada no universo da **garantia de qualidade** de software. Meu trabalho com **JavaScript**, **Cypress** e **Postman** para criação de **testes automatizados** é guiado por uma convicção: A verdadeira qualidade provém do conhecimento profundo do produto. Encaro cada desafio como uma chance de aprendizado e evolução, cultivando uma cultura de análise de causa raiz para fomentar a melhoria contínua.
 
