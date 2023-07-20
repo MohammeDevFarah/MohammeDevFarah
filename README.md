@@ -2,7 +2,6 @@
 Me chamo **Ricard Farah**
 
 <br>
-
 **QA Developer**  motivado, embarcado em uma jornada no universo da **garantia de qualidade** de software. Meu trabalho com **JavaScript**, **Cypress** e **Postman** para criação de **testes automatizados** é guiado por uma convicção: A verdadeira qualidade provém do conhecimento profundo do produto. Encaro cada desafio como uma chance de aprendizado e evolução, cultivando uma cultura de análise de causa raiz para fomentar a melhoria contínua.
 
 <img src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor" width="40" height="40"/>   <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=c6c3e9" width="40" height="40"/>  
