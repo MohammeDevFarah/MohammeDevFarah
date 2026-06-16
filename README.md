@@ -9,8 +9,6 @@
 <br/>
 
 ![Visualizações](https://komarev.com/ghpvc/?username=MohammeDevFarah&color=00ff88&style=for-the-badge&label=VISUALIZAÇÕES)
-![Seguidores](https://img.shields.io/github/followers/MohammeDevFarah?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=SEGUIDORES)
-![QA](https://img.shields.io/badge/QA-5%2B%20Anos-00ff88?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -29,38 +27,11 @@ Utilizo inteligência artificial de forma **estratégica e responsável** — co
 
 ---
 
-### Stack & Ferramentas
+### Tecnologias & Ferramentas
 
-**🧪 Testes & Automação**
+Atuo com automação de testes web utilizando **Cypress** e **Selenium**, tendo **JavaScript** e **Java** como linguagens de base. Na camada de API, trabalho com **Postman** integrado a pipelines de integração contínua. A validação de dados com **MySQL** faz parte do cotidiano de testes, assim como o uso de **Git**, **Jira** e ambientes **Linux** no fluxo de trabalho.
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00FF88)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-**💻 Linguagens & Desenvolvimento**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**🤖 IA & Produtividade**
-
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-**🛠️ Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Também aplico inteligência artificial de forma estratégica no processo de QA — para acelerar análises, apoiar a geração de cenários e reduzir trabalho repetitivo —, sempre com revisão técnica e entendimento do contexto do produto.
 
 ---
 
