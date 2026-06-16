@@ -2,55 +2,43 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a0e,70:00ff88,100:00d4ff&height=220&section=header&text=Ricard%20Farah&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20Web%20Automation%20%7C%20AI%20Productivity&descAlignY=58&descColor=00ff88&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1000&color=00FF88&center=true&vCenter=true&width=680&lines=%24+running+cypress+e2e+tests...+%E2%9C%93+all+passed;%24+automating+the+boring+stuff+with+AI;%24+breaking+apps+before+users+do;%24+quality+is+a+mindset%2C+not+a+phase;%24+shipping+confidence%2C+not+just+code" alt="Typing animation" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1300&color=00FF88&center=true&vCenter=true&width=740&lines=Garantindo+qualidade+antes+que+o+usu%C3%A1rio+precise+reportar;Automa%C3%A7%C3%A3o+com+prop%C3%B3sito+%E2%80%94+cobertura+com+intelig%C3%AAncia;IA+potencializa+quem+j%C3%A1+sabe+o+que+est%C3%A1+fazendo;Qualidade+%C3%A9+cultura%2C+n%C3%A3o+uma+fase+final" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammeDevFarah&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/MohammeDevFarah?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
-![QA Experience](https://img.shields.io/badge/QA%20Experience-5%2B%20Anos-00ff88?style=for-the-badge&labelColor=0d1117)
+![Visualizações](https://komarev.com/ghpvc/?username=MohammeDevFarah&color=00ff88&style=for-the-badge&label=VISUALIZAÇÕES)
+![Seguidores](https://img.shields.io/github/followers/MohammeDevFarah?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=SEGUIDORES)
+![QA](https://img.shields.io/badge/QA-5%2B%20Anos-00ff88?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-<img align="right" width="42%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+### Sobre mim
 
-### `> whoami`
+Trabalho com qualidade de software com foco em **automação de testes** e estratégia de QA. Minha trajetória evoluiu da atuação direta em testes para automação web, análise de causa raiz e integração da qualidade nos pipelines de desenvolvimento.
 
-```bash
-Name    : Ricard Farah
-Role    : QA Engineer & Automation Specialist
-Focus   : Web Automation · AI Productivity · Software Quality
-Motto   : Break things smart. Ship things confident.
-Status  : Always building, always testing
-```
+Utilizo inteligência artificial de forma **estratégica e responsável** — como recurso que amplifica o raciocínio técnico, nunca como substituto do conhecimento do produto.
 
-Sou **QA Engineer** com domínio profundo em **automação de testes** e uma
-obsessão saudável por qualidade de software. Minha trajetória evoluiu da
-linha de frente do QA para **automação web avançada** e uso estratégico de
-**IA como multiplicador de produtividade**.
-
-- 🔍 Especialista em **Cypress**, **Selenium** e pipelines de teste robustos
-- 🤖 Uso **IA ativamente** para escalar análise, geração de testes e automação de fluxos
-- 🧠 Foco em **análise de causa raiz** e cultura de melhoria contínua
-- ⚡ Acredito que qualidade nasce do conhecimento profundo do produto
-
-<br clear="right"/>
+- 🔍 Automação web com **Cypress** e **Selenium**
+- 🔗 Testes de API com **Postman** e integração em pipelines CI/CD
+- 🧠 Análise de requisitos, cobertura baseada em risco e rastreabilidade
+- ⚡ Qualidade tratada como cultura contínua, não como etapa de homologação
 
 ---
 
-### `> tech --stack`
+### Stack & Ferramentas
 
-**🧪 Testing & Automation**
+**🧪 Testes & Automação**
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00FF88)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-**💻 Languages & Dev**
+**💻 Linguagens & Desenvolvimento**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -58,7 +46,7 @@ linha de frente do QA para **automação web avançada** e uso estratégico de
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🤖 AI & Productivity**
+**🤖 IA & Produtividade**
 
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -66,7 +54,7 @@ linha de frente do QA para **automação web avançada** e uso estratégico de
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-**🛠️ Tools & Workflow**
+**🛠️ Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -76,7 +64,7 @@ linha de frente do QA para **automação web avançada** e uso estratégico de
 
 ---
 
-### `> github --dashboard`
+### GitHub
 
 <div align="center">
 
@@ -98,43 +86,48 @@ linha de frente do QA para **automação web avançada** e uso estratégico de
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammeDevFarah&bg_color=0d1117&color=00FF88&line=00D4FF&point=ffffff&area=true&area_color=00FF8820&hide_border=true&radius=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammeDevFarah&bg_color=0d1117&color=00FF88&line=00D4FF&point=ffffff&area=true&area_color=00FF8820&hide_border=true&radius=6" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohammeDevFarah&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohammeDevFarah&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 
 </div>
 
 ---
 
-### `> ai --philosophy`
+### IA com responsabilidade
 
 ```javascript
-const ricardFarah = {
-  approach: "AI como amplificador, não substituto",
+const abordagemIA = {
+  premissa: "IA sem domínio técnico e do produto gera ruído — não valor",
 
-  ai_stack: [
-    "Claude Code  → automação de fluxos e geração de código",
-    "ChatGPT      → análise, escrita e brainstorm",
-    "Copilot      → aceleração no editor",
-    "Perplexity   → pesquisa técnica em tempo real",
+  principio: "A ferramenta potencializa quem já sabe o que está fazendo",
+
+  como_uso: [
+    "Geração de casos de teste guiada pelo contexto real do produto",
+    "Análise de causa raiz com IA como segundo par de olhos críticos",
+    "Documentação e relatórios de qualidade com mais agilidade e revisão humana",
+    "Pesquisa técnica acelerada — sempre com validação crítica do resultado",
   ],
 
-  automation_mindset: [
-    "Geração automática de casos de teste por contexto",
-    "Root cause analysis assistida por IA",
-    "Documentação e relatórios automatizados",
-    "Pipelines de QA com inteligência embarcada",
+  o_que_evito: [
+    "Usar output de IA sem compreender o que foi gerado",
+    "Substituir análise de produto por prompts genéricos",
+    "Depender de automação que não consigo auditar ou explicar",
   ],
 
-  quote: "IA não substitui quem pensa — ela amplifica quem já pensa bem.",
+  foco: "Solução antes de ferramenta. Contexto antes de automação.",
 };
 ```
 
 ---
 
-### `> contact --reach`
+### Contato
 
 <div align="center">
 
@@ -144,10 +137,10 @@ const ricardFarah = {
 
 <br/>
 
-> *"A verdadeira qualidade provém do conhecimento profundo do produto."*
+> *"A verdadeira qualidade nasce do conhecimento profundo do produto — não da quantidade de testes."*
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:0d1117&height=130&section=footer&text=Quality%20is%20not%20an%20act%2C%20it%27s%20a%20habit&fontSize=15&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:0d1117&height=130&section=footer&text=Qualidade+%C3%A9+cultura%2C+n%C3%A3o+etapa&fontSize=15&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 </div>
